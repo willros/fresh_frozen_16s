@@ -1,0 +1,17 @@
+RESULTS: ""
+SAMPLE_DIR_FASTQ: ""
+
+# DATABASES
+CHIMERA: "/scratch/viller/vsearch_16/gold_new_names.fa"
+GTDB: "/scratch/viller/vsearch_16/gtdb.fa"
+GTDB_CONVERSION_TABLE: "/scratch/viller/vsearch_16/bac120_taxonomy_r220.tsv"
+
+# USEARCH
+ID_PERCENT: 0.97
+MAX_ACCEPTS: 3
+
+# Relative abundance
+COUNT_FILTER: 1
+
+# PARAMS
+THREADS: 5
